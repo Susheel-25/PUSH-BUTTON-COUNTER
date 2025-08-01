@@ -57,7 +57,9 @@ This project reads ambient temperature using the **TMP35 analog temperature sens
 | A (LED+) | 5V               |
 | K (LED-) | GND              |
 
+### Circuit Diagram:
 
+![Image](https://github.com/user-attachments/assets/9eba52da-459c-4714-86b4-44c1eb2432f4)
 
 
 
