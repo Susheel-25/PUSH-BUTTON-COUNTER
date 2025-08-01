@@ -26,7 +26,8 @@ This project reads ambient temperature using the **TMP35 analog temperature sens
 - Arduino UNO  
 - TMP35 Temperature Sensor  
 - 16x2 LCD (Non-I2C)  
-- 10kΩ Potentiometer (for LCD contrast)  
+- 10kΩ Potentiometer (for LCD contrast)
+- 220Ω Resistor
 - Breadboard & Jumper wires  
 
 ---
