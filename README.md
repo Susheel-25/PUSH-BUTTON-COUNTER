@@ -65,6 +65,9 @@ This project reads ambient temperature using the **TMP35 analog temperature sens
 
 ## 📷 Output Preview
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/c9c26283-26ad-47a5-972a-7aef46f15a9f" />
+
+
 - The LCD will show the current temperature in Celsius (°C)
 - Updates every 1 second
 - Example: `Temp: 29.56 C`
